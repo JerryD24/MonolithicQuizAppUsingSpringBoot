@@ -1,6 +1,8 @@
 # MonolithicQuizAppUsingSpringBoot
 
-1) This is a quiz app using SpringBoot which is based on Monolithic Architecture. In this app MySQL is used for database and a table is created as described below.
+1) This is a quiz app using SpringBoot which is based on Monolithic Architecture.
+  
+2) In this app MySQL is used for database and a table is created as described below.
 +-----------------+--------------+------+-----+---------+----------------+
 | Field           | Type         | Null | Key | Default | Extra          |
 +-----------------+--------------+------+-----+---------+----------------+
