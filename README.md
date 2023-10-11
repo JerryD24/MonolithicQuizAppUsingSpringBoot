@@ -1,4 +1,4 @@
-MonolithicQuizAppUsingSpringBoot
+SpringBoot QuizApp with Monolithic Architecture
 
 1) This is a quiz app using SpringBoot which is based on Monolithic Architecture.
 
