@@ -1,8 +1,10 @@
-# MonolithicQuizAppUsingSpringBoot
+MonolithicQuizAppUsingSpringBoot
 
 1) This is a quiz app using SpringBoot which is based on Monolithic Architecture.
+
+2) This app only consists of backend part which is written in SpringBoot using Lambok and JPA Repository with implementation of controller layer, service layer and dao layer.
   
-2) In this app MySQL is used for database and a table is created as described below.
+3) In this app MySQL is used, 'train' is database name and a table named 'question' is created as described below.
 +-----------------+--------------+------+-----+---------+----------------+
 | Field           | Type         | Null | Key | Default | Extra          |
 +-----------------+--------------+------+-----+---------+----------------+
@@ -15,3 +17,5 @@
 | right_answer    | varchar(50)  | YES  |     | NULL    |                |
 | difficultylevel | varchar(20)  | YES  |     | NULL    |                |
 +-----------------+--------------+------+-----+---------+----------------+
+
+:- P.S Rajput
